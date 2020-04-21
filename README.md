@@ -8,7 +8,11 @@ Class Objectives
 ● Students will be able to add, commit, and push code up to GitHub from the command
 line.
 ● Students will be able to create and use Python dictionaries.
+
 ● Students will be able to read data in from a dictionary.
+
 ● Students will be able to use List Comprehensions.
+
 ● Students will be able to write and reuse Python functions.
+
 ● Students will have a firm understanding of coding logic and reasoning.
