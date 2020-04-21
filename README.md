@@ -4,9 +4,11 @@ Overview
 Today's class will dive deeper into some of Python's other capabilities that will be used
 throughout the rest of the course.
 
-Class Objectives
+Class Objectives:
+
 ● Students will be able to add, commit, and push code up to GitHub from the command
 line.
+
 ● Students will be able to create and use Python dictionaries.
 
 ● Students will be able to read data in from a dictionary.
